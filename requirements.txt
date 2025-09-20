@@ -1,4 +1,4 @@
-pip install streamlit
-pip install pandas
-pip install matplotlib
-pip install wordcloud
+streamlit==1.38.0
+pandas==2.2.2
+matplotlib==3.9.2
+wordcloud==1.9.3
